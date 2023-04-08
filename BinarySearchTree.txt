@@ -1,0 +1,33 @@
+Binary Search Tree Project
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisi için İkili Arama Ağacı (BST) aşamaları aşağıdaki gibidir:
+7 değeriyle kök düğümü oluşturun.
+
+Kökün soluna 5 ekleyin.
+
+5'in soluna 1 girin.
+
+Kökün sağına 8 girin.
+
+5'in sağına 6 girin.
+
+1'in sağına 3 girin.
+
+1'in soluna 0 girin.
+
+8'in sağına 9 girin.
+
+3'ün sağına 4 girin.
+
+2'yi 3'ün soluna yerleştirin.
+
+Ortaya çıkan İkili Arama Ağacı şöyledir:
+        7
+      /   \
+     5     8
+    / \     \
+   1   6     9
+  / \
+ 0   3
+    / \
+   2   4
